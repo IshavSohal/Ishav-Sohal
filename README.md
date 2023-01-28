@@ -11,15 +11,6 @@ I am interested in new and emerging fields of computer science, such as Artifici
 Overall I am very excited, motivated and eager to learn new skills, as well as to grow and succeed as a professional. I am currently searching for an Software Engineering/Development internship for Summer 2023. Please do not hesitate to reach out!
 
 Skills:
-Languages: Python, Java, C, HTML, CSS, JavaScript, XML, Assembly
-Frameworks/Libraries: React.js, Node.js, PyGame, PyTest, Matplotlib, pandas, NumPy, Swing
-Developer Tools: Git/GitHub, Bash, VSCode, PyCharm, Eclipse, NetBeans, Linux/Unix, SSH, IntelliJ
-
-Projects
-Hangman:
-Image Compressor:
-Meepo is You:
-Three Musketeers
-Simon Says:
-MyShell:
-Personal Website:
+- Languages: Python, Java, C, HTML, CSS, JavaScript, XML, Assembly
+- Frameworks/Libraries: React.js, Node.js, PyGame, PyTest, Matplotlib, pandas, NumPy, Swing
+- Developer Tools: Git/GitHub, Bash, VSCode, PyCharm, Eclipse, NetBeans, Linux/Unix, SSH, IntelliJ
