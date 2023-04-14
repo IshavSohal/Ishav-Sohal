@@ -12,5 +12,7 @@ Overall I am very excited, motivated and eager to learn new skills, as well as t
 
 Skills:
 Languages: Python, Java, C, HTML/CSS, JavaScript, TypeScript, XML, Assembly, SQL, NoSQL
+
 Technologies/Frameworks: React, Node, Angular, PyGame, PyTest, pandas, NumPy, Swing, Django, MongoDB, BS4
+
 Developer Tools: Git/GitHub, Linux/Unix, Bash, SSH, Neo4j, VSCode, PyCharm, Eclipse, NetBeans, IntelliJ, Postman, Docker, Microsoft Office, Postgres
