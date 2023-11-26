@@ -11,7 +11,10 @@ I am interested in new and emerging fields of computer science, such as Artifici
 Overall I am very excited, motivated, and eager to learn new skills, as well as to grow and succeed as a professional. I am currently searching for a Software Engineering/Development internship starting in 2024. Please do not hesitate to reach out!
 
 Skills:
+
 Languages: Python, Java, C, HTML/CSS, JavaScript, TypeScript, XML, Assembly, SQL
+
 Technologies/Frameworks: React, PyTest, NumPy, Pandas, Django, BS4, Flask, FastAPI, scikit-learn
+
 Developer Tools: Git/GitHub, Linux, Bash, Postman, MongoDBCompass, Figma, Trello, Docker, PyCharm, IntelliJ
 
