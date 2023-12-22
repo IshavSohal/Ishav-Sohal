@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/IshavSohal/IshavSohal/master/Intro.gif" alt="👋 Hey! I'm Ishav Sohal | " title="👋 Hey! I'm Ishav Sohal | /"/>]()
+<h1 align="center"> 👋 Hey, I'm Ishav</h1>
 <h3 align="center">A passionate software developer</h3>
 <img align="right" style="marginTop: 20px" alt="Coder GIF" height=300 width=400 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
@@ -7,7 +7,9 @@
 
 - 4th Year Computer Science Student at **UofT**
 
-- I am a hardworking individual who is committed to going above and beyond to consistently exceed targets. I am a reliable team member accustomed to taking on challenging tasks, and who is capable of adapting to varying situations and environments. 
+- I am a hardworking individual who is committed to going above and beyond to consistently exceed targets.
+
+- I am a reliable team member accustomed to taking on challenging tasks, and who is capable of adapting to varying situations and environments. 
 
 - I am interested in **Web Development** and **Full Stack Software Development**
 
